@@ -18,6 +18,6 @@
 #Risk Assessment Matrix
 
 
-| heading | heading | head | heador | haeder |
+| Risks | Likelihood | Severity | Control Measure | Revisit |
 | --- | --- | --- | --- | --- |
-| content | more content | text | dgjdha | whiwqh |
+| Database Crashing | more content | text | dgjdha | whiwqh |

@@ -21,6 +21,10 @@ The application I have been creating performs the actions of the requirements, C
 
 [This is the link to my Trello Board](https://www.bing.com/search?q=google&cvid=ccd89689877b4961851dde855cb873c2&aqs=edge.0.69i59j69i65j69i57j69i60j0j69i60j0.484j0j1&FORM=ANNTA9&PC=U531)
 
+! [alt text] (testingfirst.jpg)
+
+
+
 Using a Trello board helped me visualise the process clearly and keep track of workflow against the time limit.
 
 
